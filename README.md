@@ -16,3 +16,4 @@ The current node has successfully completed its initial sync, marking a signific
 ### Conclusion
 
 The procurement of the 2TB hard drive workstation is essential for ensuring the node operates efficiently and reliably. The expanded storage capacity is a critical factor for maintaining a robust and resilient node infrastructure. The completion of the initial sync marks a significant milestone, and with the new 2TB storage, the node is well-prepared to handle future data accumulation and ensure continuous operation.
+Looking forward to running more BG Nodes
